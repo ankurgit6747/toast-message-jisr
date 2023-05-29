@@ -6,4 +6,4 @@
 
 **Step 3:** click on click me button to view the toast message
 
-**Deploy link:** [Deploy Link](https://github.com/ankurgit6747/toast-message-jisr)
+**Deploy link:** [Deploy Link](https://toast-message-jisr.vercel.app/)
